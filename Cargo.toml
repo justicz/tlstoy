@@ -1,0 +1,9 @@
+[package]
+name = "tlstoy"
+version = "0.1.0"
+authors = ["Max Justicz <max@justi.cz>"]
+
+[dependencies]
+byteorder = "1.1.0"
+rand = "0.3.17"
+
